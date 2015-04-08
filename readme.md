@@ -35,7 +35,7 @@ All of the files that you will need for the test are located inside of the direc
 * Display these Products on the home page, and make sure that it looks good in every screen size. You can refer to the screenshot called products, in the `screenshots` directory, to see how it should look.
 
 #### Part 2
-* Create a custom post type called `videos`
+* Create a custom post type called `Videos`
 * A `video` only needs fields in the admin for Name, youtube-id
 * Take each of the videos listed in the text file `videos-list` and create a `video` from them.
 * On the home page, below the `products` section, create a new section and that shows only one video and a list of text links for the other videos. Refer to the screenshot called videos, also in the `screenshots` directory to see how it should look.
