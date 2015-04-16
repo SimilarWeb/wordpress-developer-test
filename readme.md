@@ -1,7 +1,7 @@
 ## Wordpress Developer Test
 
 ### Get started
-* Fork the repository
+* Clone the repository
 * Create a database called `sw-wordpress-test`
 * Create the user `swtest` with the password is `123456` and give it access to the db 
 * Add `127.0.0.1 sw-dev.dev` to your hosts file
@@ -40,3 +40,9 @@ All of the files that you will need for the test are located inside of the direc
 * Take each of the videos listed in the text file `videos-list` and create a `video` from them.
 * On the home page, below the `products` section, create a new section and that shows only one video and a list of text links for the other videos. Refer to the screenshot called videos, also in the `screenshots` directory to see how it should look.
 * When you click the link to another video in the list, the video displaying on the home page should change and become the new video
+
+#### Submitting the Test
+* Commit your changes
+* Create a git patch
+* Export your SQL
+* Email the SQL file and patch back
